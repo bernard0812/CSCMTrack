@@ -19,6 +19,5 @@ Follow the instruction on  [https://pytorch.org/get-started/locally/](https://py
 
 
 # Demo
-1. We have put our model checkpoints here [ESVT: Goole Drive](https://drive.google.com/drive/folders/1CONoYjxOX9gsal1bxnj3PmixEKsv3p3L?hl=zh-cn)
-2. We have supplemented and modified the dataset, and the final dataset [UAVEOT Dataset](https://pan.baidu.com/s/1G30vw2NO3WvHO5Q2EViI6g) [code: EMRS] can be downloaded from Baidu Netdisk. 
-3.  Run train.py and the results in outputs.
+1. We have supplemented and modified the dataset, and the final dataset [UAVEOT Dataset](https://pan.baidu.com/s/1bBJNqYZ4j8cOr_q2mjrvqw) can be downloaded from Baidu Netdisk. 
+2.  Run train.py and the results in outputs.

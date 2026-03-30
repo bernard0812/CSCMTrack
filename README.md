@@ -1,10 +1,6 @@
 # CSCMTrack
 Cross-Scale Correlation Modeling for Event-based UAV Tracking
 
-![image](fig/results.png)
-
-Comparison with other state-of-the-art methods
-
 ## Conda Installation
 We train our models under`python=3.8,pytorch=2.2.2,cuda=11.8`. 
 
